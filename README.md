@@ -60,7 +60,7 @@ Les rapports JUnit et Jacoco sont générés à chaque build.
 4.- Jenkins exécute les tests toutes les 5 minutes et publie les rapports de couverture automatiquement.
 
 <img width="1645" height="744" alt="image" src="https://github.com/user-attachments/assets/70750314-1f80-45d8-8e82-ce3e19f2f674" />
-*Voici le coverage final du projet apres avoir suivi toutes les etapes*
+**Voici le coverage final du projet apres avoir suivi toutes les etapes**
 
 
 
