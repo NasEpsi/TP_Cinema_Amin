@@ -25,15 +25,15 @@ TP_Cinema_Amin est une application Java professionnelle dédiée à la gestion d
 Suivi continu et automatisé grâce à Jenkins et Jacoco :
 
 <img width="1292" height="197" alt="image" src="https://github.com/user-attachments/assets/4085da12-f722-40be-9b3d-18c098340323" />
-*Cette capture présente le taux de couverture Jacoco, démontrant une couverture de **64%** des tests unitaires sur les fichiers métiers.*
+**Cette capture présente le taux de couverture Jacoco, démontrant une couverture de **64%** des tests unitaires sur les fichiers métiers.**
 
 <img width="1196" height="286" alt="image" src="https://github.com/user-attachments/assets/59bb4904-0c81-4f01-a2b1-8e0c3242e0ff" />
-*Installation du plugin JaCoCo sur Jenkins*
+**Installation du plugin JaCoCo sur Jenkins**
 
 <img width="1271" height="235" alt="image" src="https://github.com/user-attachments/assets/2c4cdca1-76e7-4615-a15a-c16aff7b0dc1" />
 <img width="852" height="637" alt="image" src="https://github.com/user-attachments/assets/9790a755-1829-4f48-ad71-db5afb0f2195" />
   
-*Illustration de la pipeline Jenkins : les tests sont déclenchés toutes les 5 minutes avec une publication automatisée des rapports de tests, pour garantir la stabilité et la qualité du projet.*
+**Illustration de la pipeline Jenkins : les tests sont déclenchés toutes les 5 minutes avec une publication automatisée des rapports de tests, pour garantir la stabilité et la qualité du projet.**
 
 ---
 
