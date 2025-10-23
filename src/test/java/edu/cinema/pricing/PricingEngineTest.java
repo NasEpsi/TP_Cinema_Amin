@@ -165,7 +165,7 @@ class PricingEngineTest {
             // 3D +4*2 => +8 => 30.00
             // Group -10% => -3.00 => 27.00
             assertEquals(27.00, p.getTotal(), 1e-9);
-            // Vérifie aussi que chaque composant a bien 2 décimales "logiquement"
+            // Vérifie aussi que chaque composant a bien 2 décimales "logiquemen"
             assertEquals(27.50, p.getSubtotal(), 1e-9);
             assertEquals(5.50, p.getWednesdayDisc(), 1e-9);
             assertEquals(8.00, p.getThreeDSurcharge(), 1e-9);
